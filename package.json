@@ -1,0 +1,27 @@
+{
+    "name": "@awsum-panda/fetchwrapper",
+    "version": "1.0.0",
+    "description": "A simple wrapper for fetch with custom error messages",
+    "license": "Apache-2.0",
+    "repository": "awsum-panda/fetchwrapper",
+    "files": [
+        "LICENSE",
+        "README.md",
+        "index.js",
+        "package.json"
+    ],
+    "author": {
+        "name": "awsum-panda",
+        "url": "https://github.com/awsum-panda/fetchwrapper"
+    },
+    "main": "index.js",
+    "keywords": [
+        "fetchwrapper",
+        "fetchWrapper",
+        "fetch",
+        "wrapper",
+        "npm",
+        "package",
+        "awsum-panda"
+    ]
+}
